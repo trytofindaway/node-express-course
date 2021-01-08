@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node-express-course",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trytofindaway/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trytofindaway/node-express-course/issues"
+  },
+  "homepage": "https://github.com/trytofindaway/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
